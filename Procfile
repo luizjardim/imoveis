@@ -1,0 +1,1 @@
+web: gunicorn imoveis.wsgi --log-file -
